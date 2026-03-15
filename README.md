@@ -1,4 +1,4 @@
-🔭 I’m currently working on  <br>Building Python projects and improving my problem-solving skills.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly open source projects and student developer communities.<br><br>🤝 I’m looking for help with  <br>Open source contribution and advanced Python concepts.<br><br>🌱 I’m currently learning  <br>Python, Data Structures & Algorithms, and concepts of Ai Engineer.<br><br>💬 Ask me about  <br>Python, GitHub usage, and Data Science concepts.<br><br>⚡ Fun fact  <br>I manage a tech YouTube channel while pursuing my B.Tech in Computer Science.
+🔭 I’m currently working on  <br>Building Python projects and improving my problem-solving skills.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly open source projects and student developer communities.<br><br>🌱 I’m currently learning  <br>Python, Data Structures & Algorithms, and concepts of Ai Engineer.<br><br>💬 Ask me about  <br>Python, GitHub usage, and Data Science concepts.<br><br>⚡ Fun fact  <br>I manage a tech YouTube channel while pursuing my B.Tech in Computer Science.
 
 
 ## 🌐 Socials:
