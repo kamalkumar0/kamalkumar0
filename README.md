@@ -1,12 +1,84 @@
-🔭 I’m currently working on  <br>Building Python projects and improving my problem-solving skills.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly open source projects and student developer communities.<br><br>🌱 I’m currently learning  <br>Python, Data Structures & Algorithms, and concepts of Ai Engineer.<br><br>💬 Ask me about  <br>Python, GitHub usage, and Data Science concepts.<br><br>⚡ Fun fact  <br>I manage a tech YouTube channel while pursuing my B.Tech in Computer Science.
+# Hi there 👋, I'm Kamal Kumar
+
+### 🚀 Aspiring AI/ML Engineer | Python Developer | B.Tech CSE Student
+
+I am a Computer Science undergraduate passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I enjoy building practical projects, solving coding problems, and sharing technology-related content through my YouTube channel.
+
+---
+
+### 🎯 Current Focus
+
+* 📚 Learning Data Structures & Algorithms
+* 🤖 Building AI & Machine Learning Projects
+* 🐍 Strengthening Python Development Skills
+* 🌱 Contributing to Open Source Projects
+* 💼 Preparing for Software & AI Internships
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* C++
+* C
+* HTML
+* CSS
+
+**Data Science & AI**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* Keras
+* OpenCV
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+---
+
+### 🚀 Featured Projects
+
+#### 📄 AI Resume Analyzer
+
+AI-powered resume analysis system that extracts information, analyzes skills, and provides insights for job matching.
+
+#### 🌸 Flower Segmentation
+
+Deep learning model trained for flower image classification using CNN architectures.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalkumar0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmakamal1605@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=kamalkumar0&theme=dark&hide_border=false)<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Current Goals for 2026
+
+* Solve 300+ DSA Problems
+* Build 10+ Portfolio Projects
+* Contribute to Open Source
+* Secure an AI/Software Internship
+* Grow TechWithKamal Community
+
+---
+
+### 🌐 Connect With Me
+
+💼 LinkedIn: linkedin.com/in/kamalkumar0
+
+📧 Email: [connect.kamalkumar@gmail.com](mailto:connect.kamalkumar@gmail.com)
+
+📺 YouTube: TechWithKamal
+
+---
+
+### ⚡ Fun Fact
+
+I manage a technology-focused YouTube channel while pursuing my B.Tech in Computer Science and continuously building new projects to improve my development and AI skills.
