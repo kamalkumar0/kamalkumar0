@@ -18,31 +18,12 @@ I am a Computer Science undergraduate passionate about Artificial Intelligence, 
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-* Python
-* C++
-* C
-* HTML
-* CSS
-
-**Data Science & AI**
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* Keras
-* OpenCV
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+**Programming Languages:**
+Python, C++, C, HTML5, CSS3
+**Data Science & Machine Learning:**
+NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, Keras, OpenCV
+**Tools & Platforms:**
+Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
