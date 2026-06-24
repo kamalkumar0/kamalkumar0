@@ -20,8 +20,10 @@ I am a Computer Science undergraduate passionate about Artificial Intelligence, 
 
 **Programming Languages:**
 Python, C++, C, HTML5, CSS3
+
 **Data Science & Machine Learning:**
 NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, Keras, OpenCV
+
 **Tools & Platforms:**
 Git, GitHub, VS Code, Jupyter Notebook
 
