@@ -54,7 +54,7 @@ Deep learning model trained for flower image classification using CNN architectu
 
 ### 🌐 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/kamalkumar0
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/kamalkumar0/)
 
 📧 Email: [connect.kamalkumar@gmail.com](mailto:connect.kamalkumar@gmail.com)
 
