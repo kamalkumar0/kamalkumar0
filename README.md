@@ -39,17 +39,6 @@ AI-powered resume analysis system that extracts information, analyzes skills, an
 
 Deep learning model trained for flower image classification using CNN architectures.
 
-
-
-
-### 📈 Current Goals for 2026
-
-* Solve 300+ DSA Problems
-* Build 10+ Portfolio Projects
-* Contribute to Open Source
-* Secure an AI/Software Internship
-* Grow TechWithKamal Community
-
 ---
 
 ### 🌐 Connect With Me
